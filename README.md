@@ -9,7 +9,7 @@ I'm a enthusiastic Full Stack Developer student from Córdoba, Argentina 🇦�
 backend developer
 -->
 
-👨🏽‍💻 Currently studying the  <a href="https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer" >Certified Tech Developer</a> career offered by Digital House, the program (it) was developed jointly with MercadoLibre and Globant. I am building a solid foundation in both frontend and backend technologies and languages.
+👨🏽‍💻 Currently studying the  <a href="https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer" >Certified Tech Developer</a> career offered by Digital House, it was developed jointly with MercadoLibre and Globant. I am building a solid foundation in both frontend and backend technologies and languages.
 <!--
 add infraestructure and testing
 
