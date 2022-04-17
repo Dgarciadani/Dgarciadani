@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Dgarciadani&show_icons=true&theme=midnight-purple" alt="valva-ro" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dgarciadani&show_icons=true&theme=tokyonight" alt="Grego's" />
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dgarciadani&layout=compact&langs_count=5&theme=midnight-purple" alt="valva-ro" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dgarciadani&layout=compact&langs_count=5&theme=tokyonight" alt="Grego's" />
 </p>
 
