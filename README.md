@@ -49,7 +49,7 @@ In the Back-End I work with Java, SpringBoot and MySql for DataBases.
 
 
 
-##  I'm currently learning
+## 📚  I'm currently learning
 <p align="center">
   <img src="https://img.shields.io/badge/React-23BAE0?style=for-the-badge&logo=react&logoColor=white" alt="react" height="50"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" height="50"/>
