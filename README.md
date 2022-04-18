@@ -9,7 +9,7 @@ I'm a enthusiastic Full Stack Developer student from Córdoba, Argentina 🇦�
 backend developer
 -->
 
-👨🏽‍💻 Currently studying the  <a href="https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer" >Certified Tech Developer</a> career offered by Digital House, it was developed jointly with MercadoLibre and Globant. I'm building a solid foundation in both frontend and backend technologies and languages.
+👨🏽‍💻 Currently studying the  <a href="https://www.digitalhouse.com/ar/productos/programacion/certified-tech-developer" >Certified Tech Developer</a> career offered by Digital House, it was developed jointly with MercadoLibre and Globant. I'm building a solid foundation in both frontend and backend technologies and languages, as well as agile methodologies: learning agility, collaboration and teamwork and time management.
 <!--
 add infraestructure and testing
 
@@ -37,6 +37,8 @@ In the Back-End I work with Java, SpringBoot and MySql for DataBases.
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" height="50"/>
  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" height="50"/>
  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" height="50"/>
+
+  
 </p>
 
 ### Others Stacks
@@ -54,6 +56,7 @@ In the Back-End I work with Java, SpringBoot and MySql for DataBases.
   <img src="https://img.shields.io/badge/React-23BAE0?style=for-the-badge&logo=react&logoColor=white" alt="react" height="50"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" height="50"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="50"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL" height="50"/>
 </p>
 
 
